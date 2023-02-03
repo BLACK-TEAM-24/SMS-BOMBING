@@ -20,11 +20,11 @@ pip install rich
 
 rm -rf SMS-BOMBING 
 
-git clone 
+git clone https://github.com/BLACK-TEAM-24/SMS-BOMBING.git
 
 cd SMS-BOMBING
 
-python 
+python BLACK-SMS.py
 
 # Follow MY Facebook pages ⬇️
 
